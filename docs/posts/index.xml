@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>The Triad Lab</title>
-<link>https://paulriesthuis.github.io/RiesthuisWebsite/posts/</link>
-<atom:link href="https://paulriesthuis.github.io/RiesthuisWebsite/posts/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://paulriesthuis.github.io/triad-lab/posts/</link>
+<atom:link href="https://paulriesthuis.github.io/triad-lab/posts/index.xml" rel="self" type="application/rss+xml"/>
 <description>Memory | Methods | Mind — Research lab led by Dr. Paul Riesthuis at Erasmus University Rotterdam (ESSB) exploring eyewitness memory, statistics &amp; SESOI, and the illusory truth effect.</description>
 <generator>quarto-1.10.18</generator>
 <lastBuildDate>Sun, 18 May 2025 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Interpreting Effect Sizes in Psychological Science (Shiny App)</title>
   <dc:creator>Dr. Paul Riesthuis</dc:creator>
-  <link>https://paulriesthuis.github.io/RiesthuisWebsite/posts/rocpower/</link>
+  <link>https://paulriesthuis.github.io/triad-lab/posts/rocpower/</link>
   <description><![CDATA[ 
 
 
@@ -31,14 +31,14 @@
   <category>Effect Sizes</category>
   <category>SESOI</category>
   <category>Shiny App</category>
-  <guid>https://paulriesthuis.github.io/RiesthuisWebsite/posts/rocpower/</guid>
+  <guid>https://paulriesthuis.github.io/triad-lab/posts/rocpower/</guid>
   <pubDate>Sun, 18 May 2025 22:00:00 GMT</pubDate>
-  <media:content url="https://paulriesthuis.github.io/RiesthuisWebsite/posts/rocpower/featured.png" medium="image" type="image/png" height="73" width="144"/>
+  <media:content url="https://paulriesthuis.github.io/triad-lab/posts/rocpower/featured.png" medium="image" type="image/png" height="73" width="144"/>
 </item>
 <item>
   <title>Power Analysis for ROC Curve Analysis Shiny App</title>
   <dc:creator>Dr. Paul Riesthuis</dc:creator>
-  <link>https://paulriesthuis.github.io/RiesthuisWebsite/posts/interpretes/</link>
+  <link>https://paulriesthuis.github.io/triad-lab/posts/interpretes/</link>
   <description><![CDATA[ 
 
 
@@ -55,14 +55,14 @@
   <category>ROC Analysis</category>
   <category>Shiny App</category>
   <category>Power Analysis</category>
-  <guid>https://paulriesthuis.github.io/RiesthuisWebsite/posts/interpretes/</guid>
+  <guid>https://paulriesthuis.github.io/triad-lab/posts/interpretes/</guid>
   <pubDate>Tue, 18 Mar 2025 23:00:00 GMT</pubDate>
-  <media:content url="https://paulriesthuis.github.io/RiesthuisWebsite/posts/interpretes/featured.png" medium="image" type="image/png" height="56" width="144"/>
+  <media:content url="https://paulriesthuis.github.io/triad-lab/posts/interpretes/featured.png" medium="image" type="image/png" height="56" width="144"/>
 </item>
 <item>
   <title>Safe Testing &amp; Sequential Analysis in R</title>
   <dc:creator>Dr. Paul Riesthuis</dc:creator>
-  <link>https://paulriesthuis.github.io/RiesthuisWebsite/posts/safetesting/</link>
+  <link>https://paulriesthuis.github.io/triad-lab/posts/safetesting/</link>
   <description><![CDATA[ 
 
 
@@ -886,7 +886,7 @@ background-color: null;
 font-style: inherit;">+</span> <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">shadow_mark</span>()</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/safetesting/index_files/figure-html/unnamed-chunk-6-1.gif" class="img-fluid"><!-- --></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/safetesting/index_files/figure-html/unnamed-chunk-6-1.gif" class="img-fluid"><!-- --></p>
 </div>
 </section>
 <section id="plot-e-values" class="level3">
@@ -962,7 +962,7 @@ font-style: inherit;">+</span></span>
 <span id="cb13-8">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme_barbie</span>()</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/safetesting/index_files/figure-html/unnamed-chunk-7-1.gif" class="img-fluid"><!-- --></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/safetesting/index_files/figure-html/unnamed-chunk-7-1.gif" class="img-fluid"><!-- --></p>
 </div>
 </section>
 <section id="plot-raw-mean-difference-and-95ci-and-cs" class="level3">
@@ -1100,7 +1100,7 @@ font-style: inherit;">+</span></span>
 <span id="cb14-15">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme_barbie</span>()</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/safetesting/index_files/figure-html/unnamed-chunk-8-1.gif" class="img-fluid"><!-- --></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/safetesting/index_files/figure-html/unnamed-chunk-8-1.gif" class="img-fluid"><!-- --></p>
 </div>
 </section>
 </section>
@@ -1884,7 +1884,7 @@ background-color: null;
 font-style: inherit;">col=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"red"</span>)</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/safetesting/index_files/figure-html/unnamed-chunk-11-1.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/safetesting/index_files/figure-html/unnamed-chunk-11-1.png" width="672"></p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb19" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb19-1"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;"># Type 1 error rate</span></span>
@@ -1953,7 +1953,7 @@ background-color: null;
 font-style: inherit;">col=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"red"</span>)</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/safetesting/index_files/figure-html/unnamed-chunk-12-1.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/safetesting/index_files/figure-html/unnamed-chunk-12-1.png" width="672"></p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb22" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb22-1"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;"># Type 1 error rate</span></span>
@@ -2044,7 +2044,7 @@ background-color: null;
 font-style: inherit;">col=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"red"</span>)</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/safetesting/index_files/figure-html/unnamed-chunk-13-1.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/safetesting/index_files/figure-html/unnamed-chunk-13-1.png" width="672"></p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb25" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb25-1"><span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;"># Type 1 error rate</span></span>
@@ -2106,7 +2106,7 @@ background-color: null;
 font-style: inherit;">col=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"red"</span>)</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/safetesting/index_files/figure-html/unnamed-chunk-14-1.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/safetesting/index_files/figure-html/unnamed-chunk-14-1.png" width="672"></p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb28" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb28-1"><span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">mean</span>(result<span class="sc" style="color: #5E5E5E;
@@ -2427,7 +2427,7 @@ font-style: inherit;">+</span></span>
 <span id="cb30-26">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme_barbie</span>()</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/safetesting/index_files/figure-html/unnamed-chunk-15-1.gif" class="img-fluid"><!-- --></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/safetesting/index_files/figure-html/unnamed-chunk-15-1.gif" class="img-fluid"><!-- --></p>
 </div>
 </section>
 <section id="plot-estimates-of-each-95cis-and-css-when-last-e-value-is-extracted" class="level2">
@@ -2715,7 +2715,7 @@ font-style: inherit;">+</span></span>
 <span id="cb31-26">  <span class="fu" style="color: #4758AB;
 background-color: null;
 font-style: inherit;">theme_barbie</span>()</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/safetesting/index_files/figure-html/unnamed-chunk-16-1.gif" class="img-fluid"><!-- --></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/safetesting/index_files/figure-html/unnamed-chunk-16-1.gif" class="img-fluid"><!-- --></p>
 </div>
 <section id="calculate-power-for-normal-evalues-minimum-effect-testing-and-equivalence-testing" class="level3">
 <h3 class="anchored" data-anchor-id="calculate-power-for-normal-evalues-minimum-effect-testing-and-equivalence-testing">Calculate power for normal evalues, minimum-effect testing, and equivalence testing</h3>
@@ -2888,14 +2888,14 @@ font-style: inherit;">na.rm=</span>T))</span>
   <category>Sequential Analysis</category>
   <category>Safe Testing</category>
   <category>R Tutorial</category>
-  <guid>https://paulriesthuis.github.io/RiesthuisWebsite/posts/safetesting/</guid>
+  <guid>https://paulriesthuis.github.io/triad-lab/posts/safetesting/</guid>
   <pubDate>Thu, 28 Nov 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://paulriesthuis.github.io/RiesthuisWebsite/posts/safetesting/featured.png" medium="image" type="image/png" height="108" width="144"/>
+  <media:content url="https://paulriesthuis.github.io/triad-lab/posts/safetesting/featured.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 <item>
   <title>Item Response Theory: 2-Parameter Logistic (2PL) Model</title>
   <dc:creator>Dr. Paul Riesthuis</dc:creator>
-  <link>https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_2pl/</link>
+  <link>https://paulriesthuis.github.io/triad-lab/posts/irt_2pl/</link>
   <description><![CDATA[ 
 
 
@@ -3050,7 +3050,7 @@ font-style: inherit;">"ML"</span>)</span>
 background-color: null;
 font-style: inherit;">print</span>(ItemPlot)</span>
 <span id="cb4-9">}</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_2pl/index_files/figure-html/unnamed-chunk-3-1.png" width="672"><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_2pl/index_files/figure-html/unnamed-chunk-3-2.png" width="672"><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_2pl/index_files/figure-html/unnamed-chunk-3-3.png" width="672"><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_2pl/index_files/figure-html/unnamed-chunk-3-4.png" width="672"><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_2pl/index_files/figure-html/unnamed-chunk-3-5.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_2pl/index_files/figure-html/unnamed-chunk-3-1.png" width="672"><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_2pl/index_files/figure-html/unnamed-chunk-3-2.png" width="672"><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_2pl/index_files/figure-html/unnamed-chunk-3-3.png" width="672"><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_2pl/index_files/figure-html/unnamed-chunk-3-4.png" width="672"><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_2pl/index_files/figure-html/unnamed-chunk-3-5.png" width="672"></p>
 </div>
 </section>
 <section id="plot-the-individual-items---difficulty-and-discriminability" class="level3">
@@ -3070,7 +3070,7 @@ background-color: null;
 font-style: inherit;">type =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"trace"</span>)</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_2pl/index_files/figure-html/unnamed-chunk-4-1.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_2pl/index_files/figure-html/unnamed-chunk-4-1.png" width="672"></p>
 </div>
 </section>
 <section id="plot-together" class="level3">
@@ -3085,7 +3085,7 @@ background-color: null;
 font-style: inherit;">"trace"</span>, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">facet_items=</span>F)</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_2pl/index_files/figure-html/unnamed-chunk-5-1.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_2pl/index_files/figure-html/unnamed-chunk-5-1.png" width="672"></p>
 </div>
 </section>
 <section id="coefficients-of-difficulty-b-and-discriminability-a" class="level3">
@@ -3160,7 +3160,7 @@ background-color: null;
 font-style: inherit;">type=</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"infoSE"</span>)</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_2pl/index_files/figure-html/unnamed-chunk-7-1.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_2pl/index_files/figure-html/unnamed-chunk-7-1.png" width="672"></p>
 </div>
 </section>
 <section id="factor-scores" class="level3">
@@ -3200,14 +3200,14 @@ font-style: inherit;">$</span>fscor)</span></code></pre></div></div>
   <category>Item Response Theory</category>
   <category>Psychometrics</category>
   <category>R Tutorial</category>
-  <guid>https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_2pl/</guid>
+  <guid>https://paulriesthuis.github.io/triad-lab/posts/irt_2pl/</guid>
   <pubDate>Wed, 27 Nov 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_2pl/featured.png" medium="image" type="image/png" height="106" width="144"/>
+  <media:content url="https://paulriesthuis.github.io/triad-lab/posts/irt_2pl/featured.png" medium="image" type="image/png" height="106" width="144"/>
 </item>
 <item>
   <title>Item Response Theory: Rasch Model in R</title>
   <dc:creator>Dr. Paul Riesthuis</dc:creator>
-  <link>https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_rasch/</link>
+  <link>https://paulriesthuis.github.io/triad-lab/posts/irt_rasch/</link>
   <description><![CDATA[ 
 
 
@@ -3398,7 +3398,7 @@ font-style: inherit;">"ML"</span>)</span>
 background-color: null;
 font-style: inherit;">print</span>(ItemPlot)</span>
 <span id="cb7-9">}</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_rasch/index_files/figure-html/unnamed-chunk-4-1.png" width="672"><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_rasch/index_files/figure-html/unnamed-chunk-4-2.png" width="672"><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_rasch/index_files/figure-html/unnamed-chunk-4-3.png" width="672"><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_rasch/index_files/figure-html/unnamed-chunk-4-4.png" width="672"><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_rasch/index_files/figure-html/unnamed-chunk-4-5.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_rasch/index_files/figure-html/unnamed-chunk-4-1.png" width="672"><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_rasch/index_files/figure-html/unnamed-chunk-4-2.png" width="672"><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_rasch/index_files/figure-html/unnamed-chunk-4-3.png" width="672"><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_rasch/index_files/figure-html/unnamed-chunk-4-4.png" width="672"><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_rasch/index_files/figure-html/unnamed-chunk-4-5.png" width="672"></p>
 </div>
 </section>
 <section id="plot-the-individual-items---difficulty" class="level3">
@@ -3417,7 +3417,7 @@ background-color: null;
 font-style: inherit;">type =</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"trace"</span>)</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_rasch/index_files/figure-html/unnamed-chunk-5-1.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_rasch/index_files/figure-html/unnamed-chunk-5-1.png" width="672"></p>
 </div>
 </section>
 <section id="plot-together" class="level3">
@@ -3432,7 +3432,7 @@ background-color: null;
 font-style: inherit;">"trace"</span>, <span class="at" style="color: #657422;
 background-color: null;
 font-style: inherit;">facet_items=</span>F)</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_rasch/index_files/figure-html/unnamed-chunk-6-1.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_rasch/index_files/figure-html/unnamed-chunk-6-1.png" width="672"></p>
 </div>
 </section>
 <section id="coefficients" class="level3">
@@ -3486,7 +3486,7 @@ background-color: null;
 font-style: inherit;">type=</span> <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"infoSE"</span>)</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_rasch/index_files/figure-html/unnamed-chunk-8-1.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/irt_rasch/index_files/figure-html/unnamed-chunk-8-1.png" width="672"></p>
 </div>
 </section>
 <section id="factor-scores" class="level3">
@@ -3527,14 +3527,14 @@ font-style: inherit;">$</span>fscor)</span></code></pre></div></div>
   <category>Item Response Theory</category>
   <category>Psychometrics</category>
   <category>R Tutorial</category>
-  <guid>https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_rasch/</guid>
+  <guid>https://paulriesthuis.github.io/triad-lab/posts/irt_rasch/</guid>
   <pubDate>Tue, 24 Sep 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://paulriesthuis.github.io/RiesthuisWebsite/posts/irt_rasch/featured.png" medium="image" type="image/png" height="101" width="144"/>
+  <media:content url="https://paulriesthuis.github.io/triad-lab/posts/irt_rasch/featured.png" medium="image" type="image/png" height="101" width="144"/>
 </item>
 <item>
   <title>ROC Curve Analysis in Memory Research (Brady et al. 2022)</title>
   <dc:creator>Dr. Paul Riesthuis</dc:creator>
-  <link>https://paulriesthuis.github.io/RiesthuisWebsite/posts/roc_curve/</link>
+  <link>https://paulriesthuis.github.io/triad-lab/posts/roc_curve/</link>
   <description><![CDATA[ 
 
 
@@ -5010,7 +5010,7 @@ background-color: null;
 font-style: inherit;">label=</span><span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"10% false positives"</span>)</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/roc_curve/index_files/figure-html/unnamed-chunk-5-1.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/roc_curve/index_files/figure-html/unnamed-chunk-5-1.png" width="672"></p>
 </div>
 </section>
 <section id="roc-curve-via-logistic-regression" class="level2">
@@ -5415,7 +5415,7 @@ background-color: null;
 font-style: inherit;">lwd=</span><span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">2</span>)</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/roc_curve/index_files/figure-html/unnamed-chunk-7-1.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/roc_curve/index_files/figure-html/unnamed-chunk-7-1.png" width="672"></p>
 </div>
 <hr>
 </section>
@@ -6516,7 +6516,7 @@ background-color: null;
 font-style: inherit;">"red"</span>)     <span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;"># plot as a blue shape</span></span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/roc_curve/index_files/figure-html/unnamed-chunk-11-1.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/roc_curve/index_files/figure-html/unnamed-chunk-11-1.png" width="672"></p>
 </div>
 <hr>
 </section>
@@ -6762,7 +6762,7 @@ background-color: null;
 font-style: inherit;">lwd=</span><span class="dv" style="color: #AD0000;
 background-color: null;
 font-style: inherit;">2</span>)</span></code></pre></div></div>
-<p><img src="https://paulriesthuis.github.io/RiesthuisWebsite/posts/roc_curve/index_files/figure-html/unnamed-chunk-12-1.png" width="672"></p>
+<p><img src="https://paulriesthuis.github.io/triad-lab/posts/roc_curve/index_files/figure-html/unnamed-chunk-12-1.png" width="672"></p>
 </div>
 
 
@@ -6773,14 +6773,14 @@ font-style: inherit;">2</span>)</span></code></pre></div></div>
   <category>ROC Analysis</category>
   <category>Signal Detection</category>
   <category>R Tutorial</category>
-  <guid>https://paulriesthuis.github.io/RiesthuisWebsite/posts/roc_curve/</guid>
+  <guid>https://paulriesthuis.github.io/triad-lab/posts/roc_curve/</guid>
   <pubDate>Fri, 22 Sep 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://paulriesthuis.github.io/RiesthuisWebsite/posts/roc_curve/featured.png" medium="image" type="image/png" height="117" width="144"/>
+  <media:content url="https://paulriesthuis.github.io/triad-lab/posts/roc_curve/featured.png" medium="image" type="image/png" height="117" width="144"/>
 </item>
 <item>
   <title>Old/New (Yes/No) Recognition Memory Task Analysis</title>
   <dc:creator>Dr. Paul Riesthuis</dc:creator>
-  <link>https://paulriesthuis.github.io/RiesthuisWebsite/posts/old_new-memory-task/</link>
+  <link>https://paulriesthuis.github.io/triad-lab/posts/old_new-memory-task/</link>
   <description><![CDATA[ 
 
 
@@ -7428,14 +7428,14 @@ font-style: inherit;">2</span>))))</span></code></pre></div></div>
   <category>Recognition Memory</category>
   <category>Signal Detection</category>
   <category>R Tutorial</category>
-  <guid>https://paulriesthuis.github.io/RiesthuisWebsite/posts/old_new-memory-task/</guid>
+  <guid>https://paulriesthuis.github.io/triad-lab/posts/old_new-memory-task/</guid>
   <pubDate>Thu, 21 Sep 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://paulriesthuis.github.io/RiesthuisWebsite/posts/old_new-memory-task/featured.png" medium="image" type="image/png" height="96" width="144"/>
+  <media:content url="https://paulriesthuis.github.io/triad-lab/posts/old_new-memory-task/featured.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 <item>
   <title>2AFC Memory Task Data Analysis</title>
   <dc:creator>Dr. Paul Riesthuis</dc:creator>
-  <link>https://paulriesthuis.github.io/RiesthuisWebsite/posts/2afc/</link>
+  <link>https://paulriesthuis.github.io/triad-lab/posts/2afc/</link>
   <description><![CDATA[ 
 
 
@@ -7637,14 +7637,14 @@ font-style: inherit;">2</span>))))</span></code></pre></div></div>
   <category>ROC Analysis</category>
   <category>Recognition Memory</category>
   <category>R Tutorial</category>
-  <guid>https://paulriesthuis.github.io/RiesthuisWebsite/posts/2afc/</guid>
+  <guid>https://paulriesthuis.github.io/triad-lab/posts/2afc/</guid>
   <pubDate>Tue, 12 Sep 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://paulriesthuis.github.io/RiesthuisWebsite/Triad_MMM.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://paulriesthuis.github.io/triad-lab/Triad_MMM.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Introduction to Recognition Memory Analyses</title>
   <dc:creator>Dr. Paul Riesthuis</dc:creator>
-  <link>https://paulriesthuis.github.io/RiesthuisWebsite/posts/introduction-recognition-memory-analyeses/</link>
+  <link>https://paulriesthuis.github.io/triad-lab/posts/introduction-recognition-memory-analyeses/</link>
   <description><![CDATA[ 
 
 
@@ -7664,14 +7664,14 @@ font-style: inherit;">2</span>))))</span></code></pre></div></div>
   <category>Recognition Memory</category>
   <category>Signal Detection</category>
   <category>R Tutorial</category>
-  <guid>https://paulriesthuis.github.io/RiesthuisWebsite/posts/introduction-recognition-memory-analyeses/</guid>
+  <guid>https://paulriesthuis.github.io/triad-lab/posts/introduction-recognition-memory-analyeses/</guid>
   <pubDate>Tue, 12 Sep 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://paulriesthuis.github.io/RiesthuisWebsite/Triad_MMM.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://paulriesthuis.github.io/triad-lab/Triad_MMM.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Simulation-Based Power Analysis in Memory Research</title>
   <dc:creator>Dr. Paul Riesthuis</dc:creator>
-  <link>https://paulriesthuis.github.io/RiesthuisWebsite/posts/power-analysis-for-memory-research/</link>
+  <link>https://paulriesthuis.github.io/triad-lab/posts/power-analysis-for-memory-research/</link>
   <description><![CDATA[ 
 
 
@@ -7688,14 +7688,14 @@ font-style: inherit;">2</span>))))</span></code></pre></div></div>
   <category>Power Analysis</category>
   <category>Simulation</category>
   <category>R Tutorial</category>
-  <guid>https://paulriesthuis.github.io/RiesthuisWebsite/posts/power-analysis-for-memory-research/</guid>
+  <guid>https://paulriesthuis.github.io/triad-lab/posts/power-analysis-for-memory-research/</guid>
   <pubDate>Sun, 10 Sep 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://paulriesthuis.github.io/RiesthuisWebsite/Triad_MMM.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://paulriesthuis.github.io/triad-lab/Triad_MMM.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>PhD Dissertation Findings: Lying, Memory &amp; SESOI</title>
   <dc:creator>Dr. Paul Riesthuis</dc:creator>
-  <link>https://paulriesthuis.github.io/RiesthuisWebsite/posts/phd-thesis-results/</link>
+  <link>https://paulriesthuis.github.io/triad-lab/posts/phd-thesis-results/</link>
   <description><![CDATA[ 
 
 
@@ -7711,9 +7711,9 @@ font-style: inherit;">2</span>))))</span></code></pre></div></div>
   <category>PhD Research</category>
   <category>SESOI</category>
   <category>Shiny App</category>
-  <guid>https://paulriesthuis.github.io/RiesthuisWebsite/posts/phd-thesis-results/</guid>
+  <guid>https://paulriesthuis.github.io/triad-lab/posts/phd-thesis-results/</guid>
   <pubDate>Thu, 18 May 2023 22:00:00 GMT</pubDate>
-  <media:content url="https://paulriesthuis.github.io/RiesthuisWebsite/Triad_MMM.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://paulriesthuis.github.io/triad-lab/Triad_MMM.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

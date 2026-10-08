@@ -20,9 +20,9 @@ project:
 website:
   title: "The Triad Lab"
   description: "Memory | Methods | Mind — Research lab led by Dr. Paul Riesthuis at Erasmus University Rotterdam (ESSB) exploring eyewitness memory, statistics & SESOI, and the illusory truth effect."
-  site-url: "https://paulriesthuis.github.io/RiesthuisWebsite/"
+  site-url: "https://paulriesthuis.github.io/triad-lab/"
   favicon: "images/logo.jpg"
-  repo-url: "https://github.com/PaulRiesthuis/RiesthuisWebsite"
+  repo-url: "https://github.com/PaulRiesthuis/triad-lab"
   repo-actions: [issue]
   
   navbar:

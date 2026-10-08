@@ -1,1 +1,1 @@
-Sitemap: https://paulriesthuis.github.io/RiesthuisWebsite/sitemap.xml
+Sitemap: https://paulriesthuis.github.io/triad-lab/sitemap.xml
