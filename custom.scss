@@ -1,0 +1,697 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;800;900&family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500;600&display=swap');
+
+// Zelda: Ocarina of Time Color Palette
+$triforce-gold: #c59b27;
+$triforce-gold-light: #f3ca40;
+$triforce-gold-bright: #ffd700;
+$triforce-gold-dark: #8b6c16;
+
+$kokiri-emerald: #145a46;
+$kokiri-emerald-dark: #0d382b;
+$kokiri-emerald-light: #2eb88a;
+$kokiri-sage: #e8f5f0;
+
+$temple-sapphire: #0d233a;
+$temple-sapphire-light: #1c4b79;
+$temple-azure: #2b7bc4;
+
+$goron-ruby: #9b2226;
+$shadow-purple: #5e2781;
+$spirit-bronze: #8c531b;
+
+$parchment-bg: #faf7f0;
+$parchment-card: #ffffff;
+$parchment-border: #e3d8c4;
+$hyrule-ink: #1e262f;
+$hyrule-muted: #536473;
+
+// Quarto standard variables override
+$primary: $kokiri-emerald;
+$secondary: $triforce-gold;
+$success: #198754;
+$info: $temple-azure;
+$warning: $triforce-gold-light;
+$danger: $goron-ruby;
+
+$font-family-sans-serif: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+$font-family-monospace: 'JetBrains Mono', SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+$headings-font-family: 'Cinzel', serif;
+
+$body-bg: $parchment-bg;
+$body-color: $hyrule-ink;
+$link-color: #0f5c49;
+$link-hover-color: #c59b27;
+
+$navbar-bg: #0b1a24;
+$navbar-fg: #f4ede2;
+$navbar-hl: #f3ca40;
+
+$footer-bg: #09131a;
+$footer-fg: #d2c8b8;
+
+/*-- scss:rules --*/
+
+// Global typography and Zelda feeling
+body {
+  font-family: $font-family-sans-serif;
+  letter-spacing: -0.01em;
+  background-color: $body-bg;
+  color: $body-color;
+  line-height: 1.68;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand, .hero-title {
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #0e2920;
+}
+
+// Dark mode overrides
+body.quarto-dark {
+  background-color: #090f15;
+  color: #e2e8f0;
+  
+  h1, h2, h3, h4, h5, h6, .hero-title {
+    color: #f7eed8;
+  }
+  
+  .card, .research-card, .pillar-card, .pub-card, .team-card, .feature-box {
+    background: #0f1924 !important;
+    border-color: rgba(243, 202, 64, 0.22) !important;
+    color: #e2e8f0;
+  }
+  
+  .hero-banner-standalone {
+    background: linear-gradient(135deg, #060b10 0%, #0d1e2e 50%, #071714 100%) !important;
+    border-bottom: 2px solid rgba(243, 202, 64, 0.35);
+  }
+}
+
+// Navbar Styling - Temple of Time & Triforce Gold
+.navbar {
+  background: linear-gradient(90deg, #08141d 0%, #0e2535 50%, #0a1f1a 100%) !important;
+  border-bottom: 2px solid $triforce-gold;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+  padding: 0.75rem 1.25rem;
+}
+
+.navbar-brand {
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: $triforce-gold-light !important;
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 1.22rem;
+  text-shadow: 0 0 10px rgba(243, 202, 64, 0.4);
+  
+  img {
+    max-height: 42px;
+    border-radius: 6px;
+    border: 1px solid rgba(243, 202, 64, 0.6);
+    box-shadow: 0 0 12px rgba(243, 202, 64, 0.3);
+  }
+}
+
+.navbar-nav .nav-link {
+  font-family: 'Cinzel', serif;
+  font-weight: 600;
+  font-size: 0.92rem;
+  letter-spacing: 0.04em;
+  color: #e5dfd3 !important;
+  padding: 0.5rem 0.85rem !important;
+  border-radius: 4px;
+  transition: all 0.25s ease;
+  
+  &:hover, &.active {
+    color: $triforce-gold-light !important;
+    background: rgba(243, 202, 64, 0.12);
+    text-shadow: 0 0 8px rgba(243, 202, 64, 0.5);
+  }
+}
+
+// Standalone Hero Section with Large Centered Logo
+.hero-banner-standalone {
+  background: linear-gradient(135deg, #091924 0%, #102e3b 50%, #0d2920 100%);
+  color: #f7f3eb;
+  padding: 3.5rem 2rem 3rem 2rem;
+  border-radius: 18px;
+  margin-bottom: 3rem;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(243, 202, 64, 0.4);
+  box-shadow: 0 14px 40px rgba(0, 0, 0, 0.28), inset 0 0 50px rgba(243, 202, 64, 0.08);
+  text-align: center;
+}
+
+.hero-logo-large {
+  max-width: 440px;
+  width: 90%;
+  border-radius: 16px;
+  border: 3px solid $triforce-gold;
+  box-shadow: 0 12px 40px rgba(197, 155, 39, 0.4), 0 0 25px rgba(243, 202, 64, 0.25);
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+  margin-bottom: 1.8rem;
+  background: #ffffff;
+  
+  &:hover {
+    transform: translateY(-4px) scale(1.02);
+    box-shadow: 0 18px 50px rgba(197, 155, 39, 0.55), 0 0 35px rgba(243, 202, 64, 0.45);
+  }
+}
+
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: rgba(243, 202, 64, 0.18);
+  border: 1px solid rgba(243, 202, 64, 0.65);
+  color: #ffd966;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  font-size: 0.88rem;
+  letter-spacing: 0.12em;
+  padding: 0.4rem 1.1rem;
+  border-radius: 50px;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: 900;
+  color: #fffef8 !important;
+  margin-bottom: 0.4rem;
+  letter-spacing: 0.04em;
+  line-height: 1.15;
+  text-shadow: 0 3px 12px rgba(0, 0, 0, 0.5);
+}
+
+.hero-subtitle {
+  font-family: 'Cinzel', serif;
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: $triforce-gold-light;
+  letter-spacing: 0.2em;
+  margin-bottom: 1.2rem;
+  text-transform: uppercase;
+}
+
+.hero-desc {
+  font-size: 1.15rem;
+  color: #e3e9ef;
+  max-width: 820px;
+  margin: 0 auto 2rem auto;
+  line-height: 1.7;
+}
+
+.hero-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+// Zelda Buttons
+.btn-zelda-gold {
+  background: linear-gradient(135deg, #c59b27 0%, #e5b93b 100%);
+  color: #0b1a20 !important;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  font-size: 0.95rem;
+  letter-spacing: 0.05em;
+  border: 1px solid #ffd700;
+  padding: 0.7rem 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(197, 155, 39, 0.35);
+  transition: all 0.25s ease;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  
+  &:hover {
+    transform: translateY(-2px);
+    background: linear-gradient(135deg, #e5b93b 0%, #ffd700 100%);
+    box-shadow: 0 6px 22px rgba(243, 202, 64, 0.55);
+    color: #000000 !important;
+  }
+}
+
+.btn-zelda-emerald {
+  background: linear-gradient(135deg, #0e3e33 0%, #18604f 100%);
+  color: #f5fbf8 !important;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  font-size: 0.95rem;
+  letter-spacing: 0.05em;
+  border: 1px solid rgba(46, 184, 138, 0.5);
+  padding: 0.7rem 1.5rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(14, 62, 51, 0.3);
+  transition: all 0.25s ease;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  
+  &:hover {
+    transform: translateY(-2px);
+    background: linear-gradient(135deg, #18604f 0%, #207e68 100%);
+    box-shadow: 0 6px 20px rgba(46, 184, 138, 0.4);
+    color: #ffffff !important;
+  }
+}
+
+.btn-zelda-outline {
+  background: rgba(255, 255, 255, 0.08);
+  color: #f7f3eb !important;
+  font-family: 'Cinzel', serif;
+  font-weight: 600;
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  border: 1px solid rgba(243, 202, 64, 0.5);
+  padding: 0.7rem 1.5rem;
+  border-radius: 8px;
+  transition: all 0.25s ease;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  
+  &:hover {
+    background: rgba(243, 202, 64, 0.18);
+    border-color: $triforce-gold-light;
+    color: #ffffff !important;
+    transform: translateY(-2px);
+  }
+}
+
+// Side-by-side Pillars Grid Layout
+.pillars-grid {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr) !important;
+  gap: 1.5rem !important;
+  margin-bottom: 3rem !important;
+  width: 100% !important;
+}
+
+@media (max-width: 768px) {
+  .pillars-grid {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+// Three Pillars Cards
+.pillar-card {
+  background: $parchment-card;
+  border: 1px solid $parchment-border;
+  border-radius: 14px;
+  padding: 2rem 1.6rem;
+  height: 100%;
+  position: relative;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+  display: flex;
+  flex-direction: column;
+  
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    border-radius: 14px 14px 0 0;
+  }
+  
+  &.pillar-memory::before {
+    background: linear-gradient(90deg, #145a46, #2eb88a);
+  }
+  
+  &.pillar-methods::before {
+    background: linear-gradient(90deg, #c59b27, #f3ca40);
+  }
+  
+  &.pillar-mind::before {
+    background: linear-gradient(90deg, #5e2781, #9b2226);
+  }
+  
+  &:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.09);
+    border-color: rgba(197, 155, 39, 0.45);
+  }
+}
+
+.pillar-icon-wrapper {
+  width: 58px;
+  height: 58px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7rem;
+  margin-bottom: 1.2rem;
+  
+  &.icon-memory {
+    background: rgba(20, 90, 70, 0.12);
+    color: #145a46;
+    border: 1px solid rgba(20, 90, 70, 0.25);
+  }
+  
+  &.icon-methods {
+    background: rgba(197, 155, 39, 0.15);
+    color: #8b6c16;
+    border: 1px solid rgba(197, 155, 39, 0.3);
+  }
+  
+  &.icon-mind {
+    background: rgba(94, 39, 129, 0.12);
+    color: #5e2781;
+    border: 1px solid rgba(94, 39, 129, 0.25);
+  }
+}
+
+.pillar-title {
+  font-size: 1.4rem;
+  margin-bottom: 0.7rem;
+  font-weight: 700;
+}
+
+.pillar-desc {
+  font-size: 0.98rem;
+  color: $hyrule-muted;
+  flex-grow: 1;
+  margin-bottom: 1.4rem;
+  line-height: 1.65;
+}
+
+// Research page pillar cards & headers
+.research-pillar-box {
+  background: $parchment-card;
+  border-radius: 14px;
+  padding: 2.2rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.04);
+  border: 1px solid $parchment-border;
+  
+  &.box-memory {
+    border-left: 6px solid #145a46;
+  }
+  
+  &.box-methods {
+    border-left: 6px solid #c59b27;
+  }
+  
+  &.box-mind {
+    border-left: 6px solid #5e2781;
+  }
+}
+
+.research-header-row {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  margin-bottom: 1.2rem;
+}
+
+.research-title-text {
+  font-family: 'Cinzel', serif;
+  font-weight: 800;
+  font-size: 1.65rem;
+  margin: 0;
+  line-height: 1.2;
+}
+
+// Triforce Section Header
+.section-header-triforce {
+  text-align: center;
+  margin: 3.5rem 0 2rem 0;
+  position: relative;
+  
+  .triforce-crest {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0.75rem;
+    
+    .triforce-svg {
+      width: 42px;
+      height: 36px;
+      filter: drop-shadow(0 0 8px rgba(243, 202, 64, 0.65)) drop-shadow(0 2px 5px rgba(0, 0, 0, 0.2));
+      transition: transform 0.3s ease, filter 0.3s ease;
+      
+      &:hover {
+        transform: scale(1.15);
+        filter: drop-shadow(0 0 14px rgba(255, 215, 0, 0.95));
+      }
+    }
+  }
+  
+  h2 {
+    font-size: 2.2rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    margin-bottom: 0.5rem;
+  }
+  
+  .section-sub {
+    color: $hyrule-muted;
+    font-size: 1.08rem;
+    max-width: 680px;
+    margin: 0 auto;
+  }
+}
+
+// Medallion Badges
+.badge-farore {
+  background: #d1e7dd;
+  color: #0f5132;
+  border: 1px solid #a3cfbb;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+
+.badge-din {
+  background: #f8d7da;
+  color: #842029;
+  border: 1px solid #f1aeb5;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+
+.badge-nayru {
+  background: #cff4fc;
+  color: #084298;
+  border: 1px solid #9eeaf9;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+
+.badge-triforce {
+  background: #fff3cd;
+  color: #664d03;
+  border: 1px solid #ffe69c;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  padding: 0.35rem 0.75rem;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+
+// Publications & Cards Styling
+.pub-card {
+  background: $parchment-card;
+  border: 1px solid $parchment-border;
+  border-radius: 12px;
+  padding: 1.6rem;
+  margin-bottom: 1.3rem;
+  transition: all 0.25s ease;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.03);
+  
+  &:hover {
+    border-color: $triforce-gold;
+    box-shadow: 0 8px 25px rgba(197, 155, 39, 0.15);
+    transform: translateY(-2px);
+  }
+}
+
+.pub-title {
+  font-family: 'Cinzel', serif;
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #0e2920;
+  margin-bottom: 0.4rem;
+  line-height: 1.35;
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+    
+    &:hover {
+      color: $kokiri-emerald;
+    }
+  }
+}
+
+.pub-authors {
+  font-size: 0.94rem;
+  color: $hyrule-muted;
+  margin-bottom: 0.3rem;
+}
+
+.pub-journal {
+  font-style: italic;
+  font-weight: 600;
+  color: #1a4f40;
+  font-size: 0.94rem;
+  margin-bottom: 0.75rem;
+}
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.6rem;
+}
+
+.pub-btn {
+  font-size: 0.82rem;
+  font-family: 'Cinzel', serif;
+  font-weight: 600;
+  padding: 0.25rem 0.7rem;
+  border-radius: 4px;
+  border: 1px solid #ced4da;
+  background: #f8f9fa;
+  color: #333;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  transition: all 0.2s ease;
+  
+  &:hover {
+    background: #e9ecef;
+    border-color: $triforce-gold;
+    color: #000;
+  }
+  
+  &.pub-btn-doi {
+    border-color: rgba(20, 90, 70, 0.4);
+    color: #145a46;
+    background: rgba(20, 90, 70, 0.06);
+    
+    &:hover {
+      background: rgba(20, 90, 70, 0.15);
+    }
+  }
+  
+  &.pub-btn-osf {
+    border-color: rgba(197, 155, 39, 0.5);
+    color: #8b6c16;
+    background: rgba(197, 155, 39, 0.08);
+    
+    &:hover {
+      background: rgba(197, 155, 39, 0.2);
+    }
+  }
+}
+
+// Team Card Styling
+.team-card {
+  background: $parchment-card;
+  border: 1px solid $parchment-border;
+  border-radius: 14px;
+  padding: 2.2rem;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
+  
+  &:hover {
+    border-color: $triforce-gold;
+    box-shadow: 0 10px 30px rgba(197, 155, 39, 0.15);
+  }
+}
+
+.team-avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid $triforce-gold;
+  box-shadow: 0 0 18px rgba(197, 155, 39, 0.35);
+  margin-bottom: 1.2rem;
+}
+
+// Callout & Ancient Scroll Boxes
+div.callout {
+  border-left-width: 5px !important;
+  border-radius: 8px !important;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.03);
+  font-size: 0.96rem;
+}
+
+div.callout-note {
+  border-left-color: $temple-azure !important;
+  background-color: rgba(43, 123, 196, 0.06) !important;
+}
+
+div.callout-tip {
+  border-left-color: $kokiri-emerald !important;
+  background-color: rgba(20, 90, 70, 0.06) !important;
+}
+
+div.callout-important, div.callout-warning {
+  border-left-color: $triforce-gold !important;
+  background-color: rgba(197, 155, 39, 0.08) !important;
+}
+
+div.callout-caution {
+  border-left-color: $goron-ruby !important;
+  background-color: rgba(155, 34, 38, 0.06) !important;
+}
+
+// Code chunks styling (R / JetBrains Mono)
+pre.sourceCode {
+  border-radius: 8px;
+  border: 1px solid rgba(197, 155, 39, 0.3);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.04);
+}
+
+// Footer styling
+.page-footer {
+  border-top: 2px solid $triforce-gold;
+  background: #09131a !important;
+  color: #cfc6b6;
+  font-size: 0.88rem;
+  padding: 1.5rem 1rem;
+  
+  a {
+    color: $triforce-gold-light;
+    text-decoration: none;
+    
+    &:hover {
+      text-decoration: underline;
+      color: #fff;
+    }
+  }
+}

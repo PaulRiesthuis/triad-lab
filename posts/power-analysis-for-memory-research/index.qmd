@@ -1,0 +1,17 @@
+﻿---
+title: "Simulation-Based Power Analysis in Memory Research"
+author: "Dr. Paul Riesthuis"
+date: "2023-09-11"
+description: "A simulation-focused approach to conducting accurate power analysis for memory experiment designs in R."
+image: ../../Triad_MMM.jpg
+categories:
+  - "Power Analysis"
+  - "Simulation"
+  - "R Tutorial"
+toc: true
+---
+
+**Page Under Construction**
+
+
+<iframe height="800" width="100%" frameborder="no" src="https://paulriesthuis.shinyapps.io/Power_Analysis/"> </iframe>

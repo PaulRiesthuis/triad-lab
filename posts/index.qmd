@@ -1,0 +1,52 @@
+---
+title: "R Analyses & Tutorials"
+subtitle: "Reproducible tutorials, statistical simulations, psychometrics, and quantitative workflows in R"
+listing:
+  contents:
+    - "2afc/index.qmd"
+    - "interpretes/index.qmd"
+    - "introduction-recognition-memory-analyeses/index.qmd"
+    - "irt_2pl/index.qmd"
+    - "irt_rasch/index.qmd"
+    - "old_new-memory-task/index.qmd"
+    - "phd-thesis-results/index.qmd"
+    - "power-analysis-for-memory-research/index.qmd"
+    - "rocpower/index.qmd"
+    - "roc_curve/index.qmd"
+    - "safetesting/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [image, date, title, author, description, categories]
+  feed: true
+page-layout: full
+toc: false
+---
+
+```{=html}
+<div class="section-header-triforce">
+  <div class="triforce-crest">
+    <svg class="triforce-svg" viewBox="0 0 100 86.6" width="38" height="33" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="tfGradPosts" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#ffd700" />
+          <stop offset="50%" stop-color="#e5b93b" />
+          <stop offset="100%" stop-color="#c59b27" />
+        </linearGradient>
+      </defs>
+      <polygon points="50,0 25,43.3 75,43.3" fill="url(#tfGradPosts)" stroke="#8b6c16" stroke-width="1.5" />
+      <polygon points="25,43.3 0,86.6 50,86.6" fill="url(#tfGradPosts)" stroke="#8b6c16" stroke-width="1.5" />
+      <polygon points="75,43.3 50,86.6 100,86.6" fill="url(#tfGradPosts)" stroke="#8b6c16" stroke-width="1.5" />
+    </svg>
+  </div>
+  <h2>Open R Knowledge Base</h2>
+  <p class="section-sub">Explore step-by-step guides on Item Response Theory (IRT), ROC curve simulations, smallest effect sizes of interest (SESOI), sequential testing, and memory experimental analysis.</p>
+</div>
+```
+
+::: {.callout-note}
+### Easily Editable in Quarto & R
+All tutorials in this section are built directly with Quarto (`.qmd`) and R. You can clone the repository, run the code chunks in RStudio, or create new posts simply by adding a new subfolder in `posts/`!
+:::

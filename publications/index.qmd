@@ -1,0 +1,556 @@
+---
+title: "Publications & Presentations"
+subtitle: "Peer-reviewed journal articles, registered reports, preprints, books, conference presentations, and invited talks"
+page-layout: full
+toc: true
+---
+
+```{=html}
+<div class="section-header-triforce">
+  <div class="triforce-crest">
+    <svg class="triforce-svg" viewBox="0 0 100 86.6" width="38" height="33" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="tfGradPub" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#ffd700" />
+          <stop offset="50%" stop-color="#e5b93b" />
+          <stop offset="100%" stop-color="#c59b27" />
+        </linearGradient>
+      </defs>
+      <polygon points="50,0 25,43.3 75,43.3" fill="url(#tfGradPub)" stroke="#8b6c16" stroke-width="1.5" />
+      <polygon points="25,43.3 0,86.6 50,86.6" fill="url(#tfGradPub)" stroke="#8b6c16" stroke-width="1.5" />
+      <polygon points="75,43.3 50,86.6 100,86.6" fill="url(#tfGradPub)" stroke="#8b6c16" stroke-width="1.5" />
+    </svg>
+  </div>
+  <h2>Complete Academic Catalog</h2>
+  <p class="section-sub">Explore all research outputs from Dr. Paul Riesthuis and collaborators. Click any DOI link for direct access to open articles, preprints, data, and R code.</p>
+</div>
+```
+
+## Journal Articles
+
+### 2026
+
+::: {.pub-card}
+<span class="badge-din mb-2 d-inline-block">Mind &amp; Illusory Truth</span>
+<div class="pub-title">Limits of the Illusory Truth Effect for Social-Political Opinions: Evidence from Two Experiments and a Mini Meta-Analysis</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, &amp; Woods, J. (2026)</div>
+<div class="pub-journal">Consciousness and Cognition, 144, 104119</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1016/j.concog.2026.104119" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1016/j.concog.2026.104119</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-triforce mb-2 d-inline-block">Methods &amp; Statistics &bull; Accepted</span>
+<div class="pub-title">Decisions Under Uncertainty: A Statistical Framework for Evaluating Practical Relevance in Interval-Based Hypothesis Testing</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Cribbie, R. A., Celio, V., &amp; Beribisky, N. (2026)</div>
+<div class="pub-journal">Behavior Research Methods (Accepted)</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.31234/osf.io/tsjgh_v1" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.31234/osf.io/tsjgh_v1</a>
+</div>
+:::
+
+### 2025
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Memory &amp; False Reports</span>
+<div class="pub-title">Trained but Still Tricked: Source Sensitisation Training Fails to Reduce False Memory Reports</div>
+<div class="pub-authors">Bücken, C. A., <strong>Riesthuis, P.</strong>, Caon, G., Cucu, A., &amp; Otgaar, H. (2025)</div>
+<div class="pub-journal">Memory, 34(1), 19–33</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1080/09658211.2025.2585095" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1080/09658211.2025.2585095</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Memory &amp; Denial</span>
+<div class="pub-title">Behind the Scenes of Denial‐Induced Forgetting: Strong ROC Curve Evidence for Effects on Memory for Denial‐Driven Discussions</div>
+<div class="pub-authors">Bücken, C. A., <strong>Riesthuis, P.</strong>, Mangiulli, I., &amp; Otgaar, H. (2025)</div>
+<div class="pub-journal">Applied Cognitive Psychology, 39(6), e70134</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1002/acp.70134" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1002/acp.70134</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-din mb-2 d-inline-block">Misinformation Policy</span>
+<div class="pub-title">FalseWebs Network Policy Paper: Understanding and Addressing Misinformation in Scotland</div>
+<div class="pub-authors">Wimmer, M., Skelton, F., Webster, T. C., Ullah, Z., Alexander, K., Spencer, E. J., <strong>Riesthuis, P.</strong>, … Collomosse, J. (2025)</div>
+<div class="pub-journal">FalseWebs Network Policy Paper</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.31234/osf.io/nw73u_v1" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.31234/osf.io/nw73u_v1</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Forensic Practice</span>
+<div class="pub-title">Indonesian Forensic Practitioners’ Reported Use of Strategies to Reverse Parental Suggestions</div>
+<div class="pub-authors">Bücken, C. A., <strong>Riesthuis, P.</strong>, Sumampouw, N., &amp; Otgaar, H. (2025)</div>
+<div class="pub-journal">Psychology, Crime &amp; Law, 1–18</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1080/1068316X.2025.2568731" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1080/1068316X.2025.2568731</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-triforce mb-2 d-inline-block">Methods &amp; Statistics</span>
+<div class="pub-title">From p-Values to Practical Relevance: An Introduction to Effect Sizes Through a Legal Psychological Example</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Otgaar, H., Setiawan, T., Sumampouw, N., &amp; Bücken, C. (2025)</div>
+<div class="pub-journal">Psychological Research on Urban Society, 8(2)</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.7454/proust.v8i2.1204" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.7454/proust.v8i2.1204</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-triforce mb-2 d-inline-block">Methods &amp; Minimum-Effect Testing</span>
+<div class="pub-title">When Are Scientific Findings Deemed Practically or Theoretically Relevant? A Literature Review on Minimum-Effect Testing</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, &amp; Cribbie, R. (2025)</div>
+<div class="pub-journal">The Quantitative Methods for Psychology, 21(2), 82–94</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.20982/tqmp.21.2.p082" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.20982/tqmp.21.2.p082</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Legal Psychology &amp; SESOI</span>
+<div class="pub-title">Through the Lens of Legal Professionals: Examining the Smallest Effect Size of Interest for Eyewitness Memory Research</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Rassin, E., Bücken, C., Booker, A., Chin, J., Goldfarb, D., Deferme, D., &amp; Otgaar, H. (2025)</div>
+<div class="pub-journal">International Journal of Evidence and Proof, 30(2), 89–112</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1177/13657127251357630" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1177/13657127251357630</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-triforce mb-2 d-inline-block">Methods &amp; Power Analysis</span>
+<div class="pub-title">Assessing Power Analysis Practices in Eyewitness Research: A Review and Simulation Study</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong> (2025)</div>
+<div class="pub-journal">Journal of Applied Research in Memory and Cognition, 15(2), 202–212</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1037/mac0000237" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1037/mac0000237</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-triforce mb-2 d-inline-block">Meta-Analysis</span>
+<div class="pub-title">Are Tele-Neuropsychology and In-Person Assessment Scores Meaningfully Different? A Systematic Review and Meta-Analysis</div>
+<div class="pub-authors">Alva, J. I., Brewster, R. C., Mahmood, Z., Harrell, K. M., Kaiser, N. C., <strong>Riesthuis, P.</strong>, … &amp; Kovach, S. (2025)</div>
+<div class="pub-journal">The Clinical Neuropsychologist, 39(5), 1037–1072</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1080/13854046.2025.2493343" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1080/13854046.2025.2493343</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-triforce mb-2 d-inline-block">Memory &amp; Effect Sizes</span>
+<div class="pub-title">Meaningful Approaches to Assessing the Size of Effects in Memory Research: Applications and Recommendations for Study Design, Interpretation, and Analysis</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Howe, M. L., &amp; Otgaar, H. (2025)</div>
+<div class="pub-journal">Memory, 33(5), 485–494</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1080/09658211.2025.2492496" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1080/09658211.2025.2492496</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-triforce mb-2 d-inline-block">Methods &amp; ROC Curves</span>
+<div class="pub-title">Ready to ROC? A Tutorial on Simulation-Based Power Analyses for Null Hypothesis Significance, Minimum-Effect, and Equivalence Testing for ROC Curve Analyses</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Otgaar, H., &amp; Bücken, C. (2025)</div>
+<div class="pub-journal">Behavior Research Methods, 57(4), 1–20</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.3758/s13428-025-02646-x" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.3758/s13428-025-02646-x</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">False Memory Commentary</span>
+<div class="pub-title">Still Lost in the Mall—False Memories Happen and That's What Matters</div>
+<div class="pub-authors">Wade, K. A., <strong>Riesthuis, P.</strong>, Bücken, C., Otgaar, H., &amp; Loftus, E. F. (2025)</div>
+<div class="pub-journal">Applied Cognitive Psychology, 39(1), e70028</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1002/acp.70028" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1002/acp.70028</a>
+</div>
+:::
+
+### 2024
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Eyewitness Memory &amp; ROC</span>
+<div class="pub-title">On the Use of Receiver Operating Characteristic Area Under the Curve in Eyewitness Memory Research</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, &amp; Otgaar, H. (2024)</div>
+<div class="pub-journal">Legal and Criminological Psychology, 30(2), 212–230</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1111/lcrp.12300" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1111/lcrp.12300</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-din mb-2 d-inline-block">Misinformation &amp; Meta-Analysis</span>
+<div class="pub-title">Fake Memories: A Meta-Analysis on the Effect of Fake News on the Creation of False Memories and False Beliefs</div>
+<div class="pub-authors">Schincariol, A., Otgaar, H., Greene, C. M., Murphy, G., <strong>Riesthuis, P.</strong>, Mangiulli, I., &amp; Battista, F. (2024)</div>
+<div class="pub-journal">Memory, Mind &amp; Media, 3, e17</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1017/mem.2024.14" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1017/mem.2024.14</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Replicability Review</span>
+<div class="pub-title">An Overview of the Replicability, Generalizability and Practical Relevance of Eyewitness Testimony Research in the Journal of Criminal Psychology</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, &amp; Otgaar, H. (2024)</div>
+<div class="pub-journal">Journal of Criminal Psychology, 15(2), 176–194</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1108/JCP-04-2024-0031" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1108/JCP-04-2024-0031</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Dutch Forensic Law &amp; SESOI</span>
+<div class="pub-title">Is de rechtspsychologie wel klaar voor de rechtbank? Het belang van de kleinste effectgrootte van interesse in rechtspsychologisch onderzoek</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, &amp; Otgaar, H. (2024)</div>
+<div class="pub-journal">Expertise en Recht, (1)</div>
+:::
+
+::: {.pub-card}
+<span class="badge-triforce mb-2 d-inline-block">Methods &amp; SESOI Power Analysis</span>
+<div class="pub-title">Simulation-Based Power Analyses for the Smallest Effect Size of Interest: A Confidence-Interval Approach for Minimum-Effect and Equivalence Testing</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong> (2024)</div>
+<div class="pub-journal">Advances in Methods and Practices in Psychological Science (AMPPS), 7(2), 25152459241240722</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1177/25152459241240722" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1177/25152459241240722</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Autobiographical Memory</span>
+<div class="pub-title">The Rise and Fall of Autobiographical Beliefs: The Effect of External Feedback on Memory in the Context of the Prisoner’s Dilemma</div>
+<div class="pub-authors">Zhang, Y., Otgaar, H., <strong>Riesthuis, P.</strong>, Wang, J., &amp; Jelicic, M. (2024)</div>
+<div class="pub-journal">Psychology of Consciousness: Theory, Research, and Practice</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1037/cns0000391" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1037/cns0000391</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-din mb-2 d-inline-block">Mind &amp; Illusory Truth</span>
+<div class="pub-title">“That’s Just Like, Your Opinion, Man”: The Illusory Truth Effect on Opinions</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, &amp; Woods, J. (2024)</div>
+<div class="pub-journal">Psychological Research, 88(1), 284–306</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1007/s00426-023-01845-5" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1007/s00426-023-01845-5</a>
+</div>
+:::
+
+### 2023
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Legal Psychology Commentary</span>
+<div class="pub-title">If Generalization is the Grail, Practical Relevance is the Nirvana: Considerations from the Contribution of Psychological Science of Memory to Law</div>
+<div class="pub-authors">Otgaar, H., <strong>Riesthuis, P.</strong>, Neal, T. M. S., Chin, J., Boskovic, I., &amp; Rassin, E. (2023)</div>
+<div class="pub-journal">Journal of Applied Research in Memory and Cognition, 12(2), 176–179</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1037/mac0000116" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1037/mac0000116</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Stage 2 Registered Report</span>
+<div class="pub-title">Stage 2 Registered Report: Factors Affecting the Forced Confabulation Effect: A Meta-Analysis of Laboratory Studies</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Otgaar, H., Bogaard, G., &amp; Mangiulli, I. (2023)</div>
+<div class="pub-journal">Memory, 31(5), 635–651</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1080/09658211.2023.2185931" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1080/09658211.2023.2185931</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">False Denials &amp; Children</span>
+<div class="pub-title">‘Nothing Happened’: Legal Implications of False Denials Among Abused Children</div>
+<div class="pub-authors">Bücken, C. A., Otgaar, H., London, K., <strong>Riesthuis, P.</strong>, Battista, F., &amp; Mangiulli, I. (2023)</div>
+<div class="pub-journal">Child Abuse Review, 32(2), e2791</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1002/car.2791" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1002/car.2791</a>
+</div>
+:::
+
+### 2022
+
+::: {.pub-card}
+<span class="badge-triforce mb-2 d-inline-block">Alcohol &amp; SESOI</span>
+<div class="pub-title">The Importance of the Smallest Effect Size of Interest in Expert Witness Testimony on Alcohol and Memory</div>
+<div class="pub-authors">Otgaar, H., <strong>Riesthuis, P.</strong>, Ramaekers, J. G., Garry, M., &amp; Kloft, L. (2022)</div>
+<div class="pub-journal">Frontiers in Psychology, 13, 980533</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.3389/fpsyg.2022.980533" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.3389/fpsyg.2022.980533</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Stage 1 Registered Report</span>
+<div class="pub-title">Stage 1 Registered Report: The Impact of Lying on Memory: Comparison of Various Deceptive Strategies</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Buecken, C., Mangiulli, I., &amp; Otgaar, H. (2022)</div>
+<div class="pub-journal">In-principle acceptance at Psychology, Crime &amp; Law</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Repressed Memory &amp; Amnesia</span>
+<div class="pub-title">Changing Beliefs in Repressed Memory and Dissociative Amnesia</div>
+<div class="pub-authors">Otgaar, H., Mangiulli, I., <strong>Riesthuis, P.</strong>, Dodier, O., &amp; Patihis, L. (2022)</div>
+<div class="pub-journal">Applied Cognitive Psychology, 36(6), 1234–1250</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1002/acp.4005" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1002/acp.4005</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Stage 2 Registered Report</span>
+<div class="pub-title">Stage 2 Registered Report: The Effects of Incentivized Lies on Memory</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Otgaar, H., Hope, L., &amp; Mangiulli, I. (2022)</div>
+<div class="pub-journal">Applied Cognitive Psychology, 36(5), 1150–1161</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1002/acp.3986" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1002/acp.3986</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">False Alibis &amp; Memory</span>
+<div class="pub-title">Creating a False Alibi Leads to Errors of Commission and Omission</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Otgaar, H., De Cort, A., Bogaard, G., &amp; Mangiulli, I. (2022)</div>
+<div class="pub-journal">Applied Cognitive Psychology, 36(4), 936–945</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1002/acp.3982" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1002/acp.3982</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Fabrication &amp; Recognition</span>
+<div class="pub-title">The Impact of Fabrication on Recognition Memory: An Experimental Study</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Mangiulli, I., Bogaard, G., &amp; Otgaar, H. (2022)</div>
+<div class="pub-journal">New Ideas in Psychology, 67, 100966</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1016/j.newideapsych.2022.100966" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1016/j.newideapsych.2022.100966</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Simulated Amnesia</span>
+<div class="pub-title">The Memory-Undermining Effect of Simulated Crime-Related Amnesia and its Legal Implications: A Review</div>
+<div class="pub-authors">Mangiulli, I., <strong>Riesthuis, P.</strong>, &amp; Otgaar, H. (2022)</div>
+<div class="pub-journal">Psychological Injury and Law, 15(2), 213–226</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1007/s12207-021-09441-x" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1007/s12207-021-09441-x</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-triforce mb-2 d-inline-block">Expert Opinions &amp; SESOI</span>
+<div class="pub-title">Expert Opinions on the Smallest Effect Size of Interest in False Memory Research</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Mangiulli, I., Broers, N., &amp; Otgaar, H. (2022)</div>
+<div class="pub-journal">Applied Cognitive Psychology, 36(1), 203–215</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1002/acp.3911" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1002/acp.3911</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Lying &amp; Memory</span>
+<div class="pub-title">Public Beliefs on the Relationship Between Lying and Memory</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Otgaar, H., Battista, F., &amp; Mangiulli, I. (2022)</div>
+<div class="pub-journal">Psychology, Crime &amp; Law, 28(6), 545–568</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1080/1068316X.2021.1929979" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1080/1068316X.2021.1929979</a>
+</div>
+:::
+
+### 2021
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Registered Report</span>
+<div class="pub-title">Registered Report: False Memory Formation Using the Forced Confabulation Paradigm: A Meta-Analysis of Laboratory Studies</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Otgaar, H., Bogaard, G., &amp; Mangiulli, I. (2021)</div>
+<div class="pub-journal">In-principle acceptance at Memory</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Fabrication &amp; Memory</span>
+<div class="pub-title">Do Liars Really Remember What They Lied Upon? The Impact of Fabrication on Memory</div>
+<div class="pub-authors">Battista, F., Mangiulli, I., <strong>Riesthuis, P.</strong>, Curci, A., &amp; Otgaar, H. (2021)</div>
+<div class="pub-journal">Memory, 29(8), 1076–1090</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1080/09658211.2021.1960380" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1080/09658211.2021.1960380</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Stage 1 Registered Report</span>
+<div class="pub-title">Stage 1 Registered Report: The Effects of Incentivized Lies on Memory</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Otgaar, H., Hope, L., &amp; Mangiulli, I. (2021)</div>
+<div class="pub-journal">In-principle acceptance at Applied Cognitive Psychology, 35(4), 1125–1132</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1002/acp.3838" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1002/acp.3838</a>
+</div>
+:::
+
+### 2020
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">De Psycholoog</span>
+<div class="pub-title">De Man van Zeshonderd Moorden. Kunnen We in Onze Eigen Leugens Geloven?</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Bogaard, G., &amp; Otgaar, H. (2020)</div>
+<div class="pub-journal">De Psycholoog, 55(10), 10–16</div>
+:::
+
+::: {.pub-card}
+<span class="badge-din mb-2 d-inline-block">In-Mind</span>
+<div class="pub-title">Can We Believe in Our Own Lies?</div>
+<div class="pub-authors">Battista, F., Mangiulli, I., Curci, A., <strong>Riesthuis, P.</strong>, &amp; Otgaar, H. (2020)</div>
+<div class="pub-journal">In-Mind, (1), 1–25</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Autobiography &amp; Memory</span>
+<div class="pub-title">Adopting a Fictitious Autobiography: Fabrication Inflation or Deflation?</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Otgaar, H., Mangiulli, I., &amp; de Tauzia, R. (2020)</div>
+<div class="pub-journal">Memory, 28(6), 741–752</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1080/09658211.2020.1771371" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1080/09658211.2020.1771371</a>
+</div>
+:::
+
+### 2019
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Bilingualism &amp; False Memory</span>
+<div class="pub-title">Differences Between Bilinguals and Monolinguals in False Memory Production? A Look into the DRM Paradigm Using Contextual Details</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Otgaar, H., &amp; Wang, J. (2019)</div>
+<div class="pub-journal">Psychological Research on Urban Society, 2(2), 88–97</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.7454/proust.v2i2.50" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.7454/proust.v2i2.50</a>
+</div>
+:::
+
+---
+
+## Manuscripts Under Review &amp; Preprints
+
+::: {.pub-card}
+<span class="badge-triforce mb-2 d-inline-block">Methods &amp; LLMs &bull; Under Review</span>
+<div class="pub-title">From Expert Consensus to Large Language Models: What Information is Needed to Determine and Justify a Contextualized Smallest Effect Size of Interest?</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Bücken, C. A., Otgaar, H., Celio, V., &amp; Cribbie, R. (2026)</div>
+<div class="pub-journal">Psychological Methods (Under Review)</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.31234/osf.io/qj9z8_v1" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI / Preprint: 10.31234/osf.io/qj9z8_v1</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Eyewitness Memory &amp; IRT &bull; Under Review</span>
+<div class="pub-title">Linking Eyewitness Recognition Memory to Identification Accuracy Using Item Response Theory</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong>, Otgaar, H., Saraiva, R. B., &amp; Bücken, C. A. (2026)</div>
+<div class="pub-journal">Law &amp; Human Behavior (Under Review)</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.31234/osf.io/pn5cr_v1" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI / Preprint: 10.31234/osf.io/pn5cr_v1</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Legal Psychology &bull; Under Review</span>
+<div class="pub-title">Memories of Sexual Abuse in the Distant Past: Subtypes and Corroboration in a Legal Context</div>
+<div class="pub-authors">Beek, M. T., Otgaar, H., Raymaekers, L., de Ruiter, C., <strong>Riesthuis, P.</strong>, De Beuf, T. L. F., … Verschuere, B. (2026)</div>
+<div class="pub-journal">Psychology, Public Policy, and Law (Under Review)</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.31234/osf.io/gcd4n_v1" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI / Preprint: 10.31234/osf.io/gcd4n_v1</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Memory &amp; Abuse &bull; Under Review</span>
+<div class="pub-title">The Verifiability of Recovered Memories of Abuse</div>
+<div class="pub-authors">Beek, M. T., Otgaar, H., Raymaekers, L., de Ruiter, C., <strong>Riesthuis, P.</strong>, De Beuf, T. L. F., … Verschuere, B. (2026)</div>
+<div class="pub-journal">Journal of Applied Research in Memory and Cognition (Under Review)</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.31234/osf.io/4nt6p_v1" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI / Preprint: 10.31234/osf.io/4nt6p_v1</a>
+</div>
+:::
+
+---
+
+## Books &amp; Book Chapters
+
+::: {.pub-card}
+<span class="badge-triforce mb-2 d-inline-block">Open Educational Textbook</span>
+<div class="pub-title">Introduction to R for Data Analysis</div>
+<div class="pub-authors"><strong>Riesthuis, P.</strong> (2026)</div>
+<div class="pub-journal">Online Open Access Book</div>
+<div class="pub-links">
+  <a href="https://paulriesthuis.github.io/R-for-Applied-Researchers/" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-book"></i> Read Online Book</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-farore mb-2 d-inline-block">Book Chapter</span>
+<div class="pub-title">Why We Should Not Forget About Memory: Illusions of Memory in the Courtroom</div>
+<div class="pub-authors">Otgaar, H., Buecken, C., Kloft-Heller, L., &amp; <strong>Riesthuis, P.</strong> (2025)</div>
+<div class="pub-journal">In: Bošković, I. (eds), <em>Legal and Forensic Psychology: What Is It and What It Is Not</em>. Palgrave Macmillan, Cham</div>
+<div class="pub-links">
+  <a href="https://doi.org/10.1007/978-3-031-75875-1_5" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.1007/978-3-031-75875-1_5</a>
+</div>
+:::
+
+::: {.pub-card}
+<span class="badge-triforce mb-2 d-inline-block">Open Science Book</span>
+<div class="pub-title">Guide to Effect Sizes and Confidence Intervals</div>
+<div class="pub-authors">Jané, M., Xiao, Q., Yeung, S., Ben-Shachar, M. S., Caldwell, A., Cousineau, D., <strong>Riesthuis, P.</strong>, … &amp; Feldman, G. (2024)</div>
+<div class="pub-journal">Open Science Framework</div>
+<div class="pub-links">
+  <a href="http://dx.doi.org/10.17605/OSF.IO/D8C4G" class="pub-btn pub-btn-doi" target="_blank"><i class="bi bi-box-arrow-up-right"></i> DOI: 10.17605/OSF.IO/D8C4G</a>
+</div>
+:::
+
+---
+
+## Conference Presentations
+
+* **Riesthuis, P.** (2026). *Decision-making under uncertainty: From setting the smallest effect size of interest to evaluating practical relevance.* Canadian Society for Brain, Behaviour and Cognitive Science, Toronto, Canada.
+* **Riesthuis, P.** (2026). *Limits of the illusory truth effect for social-political opinions: Evidence from two experiments and a mini meta-analysis.* Association for Psychological Science (APS), Barcelona, Spain.
+* **Riesthuis, P.** (2026). *Decision-making under uncertainty: From setting the smallest effect size of interest to evaluating practical relevance.* Association for Psychological Science (APS), Barcelona, Spain.
+* **Riesthuis, P.** (2025). *Assessing power analysis practices in eyewitness research: A review and simulation.* European Association of Psychology and Law (EAPL), Vilnius, Lithuania.
+* **Riesthuis, P.** (2024). *“That’s just like, your opinion, man”: The illusory truth effect on opinions.* Psychonomic Society, New York, USA.
+* **Riesthuis, P.** (2024). *The nature of ROC practices in eyewitness memory research.* Psychonomic Society, New York, USA.
+* **Riesthuis, P.** (2024). *Through the lens of legal professionals: Examining the smallest effect size of interest for eyewitness memory research.* European Association of Psychology and Law (EAPL), Lisbon, Portugal.
+* **Riesthuis, P.** (2024). *The nature of ROC practices in eyewitness memory research.* European Association of Psychology and Law (EAPL), Lisbon, Portugal.
+* **Riesthuis, P.** (2023). *Is significant significant? Improving practical inferences of eyewitness memory research using the smallest effect size of interest.* Society for Applied Research in Memory and Cognition (SARMAC), Nagoya, Japan.
+* **Riesthuis, P.** (2023). *Factors affecting the forced confabulation effect: A meta-analysis of laboratory studies.* European Association of Psychology and Law (EAPL), Cluj-Napoca, Romania.
+* **Riesthuis, P.** (2023). *Factors affecting the forced confabulation effect: A meta-analysis of laboratory studies.* Eurocrim, Firenze, Italy.
+* **Riesthuis, P.** (2021). *The impact of fabrication on recognition memory: An experimental study.* Society for Applied Research in Memory and Cognition (SARMAC), Virtual.
+* **Riesthuis, P.** (2020). *Public beliefs on the relationship between lying and memory.* Virtual Conference “Psychology from a Cross-Cultural Perspective”.
+* **Riesthuis, P.** (2020). *Adopting a fictitious autobiography: Fabrication inflation or deflation?.* Zoom Psychology and Law Symposium 1.0, Virtual.
+* **Riesthuis, P.** (2016). *Context information for words that were never presented.* Midwestern Psychological Association, Chicago, USA.
+
+---
+
+## Invited Talks
+
+* **Riesthuis, P.** (2025). *The impact of lying on eyewitness memory in the courtroom.* Memorial University of Newfoundland, Canada.
+* **Riesthuis, P.** (2025). *Effect sizes and practical recommendations from scientific research.* Universitas Indonesia &amp; Maranatha University Bandung, Jakarta, Indonesia.
+* **Riesthuis, P.** (2024). *When is scientific research ready to provide practical recommendations?.* KU Leuven, Belgium.
+* **Riesthuis, P.** (2024). *De praktische relevantie van rechtspsychologisch onderzoek.* University of Antwerp, Belgium.
+* **Riesthuis, P.** (2024). *“That’s just like, your opinion, man”: The illusory truth effect on opinions.* Edinburgh Napier University, Scotland.
+* **Riesthuis, P.** (2023). *A meta-analysis on the memory effects of forced confabulation.* Maastricht Memory Meeting, the Netherlands.
+* **Riesthuis, P.** (2022). *Legal professional opinions on the smallest effect size of interest in false memory research.* Radboud University, the Netherlands.
+* **Riesthuis, P.** (2022). *The impact of fabrication on recognition memory: An experimental study.* Deception Research Society.
+* **Riesthuis, P.** (2022). *Expert opinions on the smallest effect size of interest in false memory research.* University of Amsterdam, the Netherlands.
+* **Riesthuis, P.** (2021). *PhD research experience: From GVU to KU Leuven.* Grand View University, USA.
+
+---
+
+## Workshops
+
+* **Riesthuis, P.** (2026). *The smallest effect size of interest, interval hypothesis testing, and safe testing.* Department of Psychology, Memorial University of Newfoundland, Canada.
+* **Riesthuis, P.** (2026). *Introduction to R.* Criminological and Experimental Legal Psychology Lab, KU Leuven &amp; Maastricht University.
+* **Riesthuis, P.** (2025). *Improving the statistical and practical inferences of scientific research: An introduction to the smallest effect size of interest, equivalence and minimum-effect testing, and simulation-based power analyses.* Department of Criminology, Max Planck Institute for the Study of Crime, Security and Law, Germany.
+* **Riesthuis, P.** (2025). *Equivalence testing and the smallest effect size of interest.* Paul Meehl Graduate School, Eindhoven University of Technology, the Netherlands.
+* **Riesthuis, P.** (2024). *The importance of the smallest effect size of interest in assessing the practical relevance of legal psychology.* Department of Forensic Psychology, Maastricht University, the Netherlands.
+* **Riesthuis, P.** (2024). *The importance of the smallest effect size of interest in assessing the practical relevance of legal psychology.* Department of Neuropsychology and Psychopharmacology, Maastricht University, the Netherlands.
+* **Riesthuis, P.** (2023). *The importance of the smallest effect size of interest in assessing the practical relevance of scientific findings.* Department of Applied Cognitive Psychology, University of Portsmouth, United Kingdom.
+* **Riesthuis, P.** (2022). *Effect sizes in statement validity assessment.* Zoom Psychology and Law symposium (Erasmus University Rotterdam, Maastricht University, Bari University, KU Leuven).

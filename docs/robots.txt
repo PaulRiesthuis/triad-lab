@@ -1,0 +1,1 @@
+Sitemap: https://paulriesthuis.github.io/RiesthuisWebsite/sitemap.xml

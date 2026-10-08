@@ -1,0 +1,16 @@
+﻿---
+title: "Interpreting Effect Sizes in Psychological Science (Shiny App)"
+author: "Dr. Paul Riesthuis"
+date: "2025-05-19"
+description: "An interactive R Shiny application to contextualize and interpret effect sizes across common experimental designs."
+image: featured.png
+categories:
+  - "Effect Sizes"
+  - "SESOI"
+  - "Shiny App"
+toc: true
+---
+
+You can also access the Shiny app [here](https://paulriesthuis.shinyapps.io/interpreteffect/) or in [R](https://github.com/PaulRiesthuis/interpreteffect) 
+
+<iframe height="800" width="100%" frameborder="yes" src="https://paulriesthuis.shinyapps.io/interpreteffect/"> </iframe>

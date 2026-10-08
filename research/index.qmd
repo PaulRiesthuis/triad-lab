@@ -1,0 +1,132 @@
+---
+title: "Research Themes"
+subtitle: "Memory, Methods, and Mind: Advancing Cognitive Science, Psychometrics, and Legal Psychology"
+page-layout: full
+toc: true
+---
+
+```{=html}
+<div class="section-header-triforce">
+  <div class="triforce-crest">
+    <svg class="triforce-svg" viewBox="0 0 100 86.6" width="38" height="33" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="tfGradRes" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#ffd700" />
+          <stop offset="50%" stop-color="#e5b93b" />
+          <stop offset="100%" stop-color="#c59b27" />
+        </linearGradient>
+      </defs>
+      <polygon points="50,0 25,43.3 75,43.3" fill="url(#tfGradRes)" stroke="#8b6c16" stroke-width="1.5" />
+      <polygon points="25,43.3 0,86.6 50,86.6" fill="url(#tfGradRes)" stroke="#8b6c16" stroke-width="1.5" />
+      <polygon points="75,43.3 50,86.6 100,86.6" fill="url(#tfGradRes)" stroke="#8b6c16" stroke-width="1.5" />
+    </svg>
+  </div>
+  <h2>The Three Research Pillars</h2>
+  <p class="section-sub">At The Triad Lab, our research integrates cognitive experimentation, quantitative rigor, and legal-psychological applications at Erasmus University Rotterdam.</p>
+</div>
+```
+
+## Pillar I: Memory {#pillar-memory}
+
+::: {.research-pillar-box .box-memory}
+```{=html}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <div class="pillar-icon-wrapper icon-memory m-0">
+    <i class="bi bi-search"></i>
+  </div>
+  <div>
+    <span class="badge-farore mb-1">Pillar I &bull; Eyewitness Memory &amp; Deception</span>
+    <h3 class="m-0" style="color: #145a46; font-family: 'Cinzel', serif; font-weight: 700;">Memory Architecture &amp; Deception</h3>
+  </div>
+</div>
+```
+
+Memory is not a static recording of past events, but an active, malleable reconstruction. Our lab investigates how deceptive behaviors, interrogation strategies, and suggestibility alter what individuals remember, report, and genuinely believe:
+
+* **Fabrication Inflation &amp; Deflation:** Examining the cognitive consequences when suspects or witnesses fabricate stories. Does concocting a false narrative create false memories (fabrication inflation) or impair access to the genuine event (fabrication deflation)?
+* **Denial-Induced Forgetting:** Investigating whether falsely denying an event suppresses subsequent episodic memory accessibility and whether denial-driven discussions permanently distort recall.
+* **Eyewitness Testimony &amp; Identification:** Evaluating factors that influence eyewitness accuracy, lineup procedures, and confidence-accuracy relationships in forensic investigations.
+* **False Memories &amp; Confabulation:** Utilizing DRM and forced-confabulation paradigms to study how external feedback, misinformation, and linguistic context (such as bilingualism) produce memory distortions.
+
+```{=html}
+<div class="alert alert-success mt-4 mb-0" style="font-size: 0.93rem;">
+  <strong>Representative Publications:</strong> 
+  <em>The Impact of Fabrication on Recognition Memory</em> (New Ideas in Psychology / JARMAC) &bull; 
+  <em>Behind the Scenes of Denial-Induced Forgetting</em> (Applied Cognitive Psychology 2025) &bull; 
+  <em>Trained but Still Tricked</em> (Memory 2025) &bull; 
+  <em>Still Lost in the Mall</em> (Applied Cognitive Psychology 2025).
+</div>
+```
+:::
+
+## Pillar II: Methods {#pillar-methods}
+
+::: {.research-pillar-box .box-methods}
+```{=html}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <div class="pillar-icon-wrapper icon-methods m-0">
+    <i class="bi bi-graph-up-arrow"></i>
+  </div>
+  <div>
+    <span class="badge-triforce mb-1">Pillar II &bull; Methodology, Statistics &amp; SESOI</span>
+    <h3 class="m-0" style="color: #8b6c16; font-family: 'Cinzel', serif; font-weight: 700;">Quantitative Methods &amp; Statistical Inference</h3>
+  </div>
+</div>
+```
+
+Null Hypothesis Significance Testing (NHST) frequently answers whether an effect is statistically non-zero, but fails to evaluate whether the effect is practically or theoretically meaningful. We develop innovative quantitative tools and open-source R packages to enhance statistical inference:
+
+* **Simulation-Based Power Analysis:** Building custom Monte Carlo simulation frameworks in R to estimate power for minimum-effect testing, equivalence testing, and complex experimental designs.
+* **Smallest Effect Size of Interest (SESOI):** Establishing theoretical frameworks, expert consensus methods, and LLM-driven justifications to determine what effect sizes matter in forensic and psychological science.
+* **Receiver Operating Characteristic (ROC) Modeling:** Providing power analysis tutorials and R packages (`rocpower`) to model diagnostic accuracy and Area Under the Curve ($AUC$) in eyewitness identification tasks.
+* **Psychometrics &amp; Item Response Theory (IRT):** Applying Rasch and 2PL models to calibrate memory tasks and evaluate participant latent abilities.
+* **Interval-Based Hypothesis Testing &amp; Safe Testing:** Developing anytime-valid inference frameworks and decision-making under uncertainty without inflating Type I error rates.
+
+```{=html}
+<div class="alert alert-warning mt-4 mb-0" style="font-size: 0.93rem;">
+  <strong>Representative Publications:</strong> 
+  <em>Decisions Under Uncertainty: A Statistical Framework for Evaluating Practical Relevance in Interval-Based Hypothesis Testing</em> (Behavior Research Methods 2026) &bull; 
+  <em>Simulation-Based Power Analyses for the SESOI</em> (AMPPS 2024) &bull; 
+  <em>Ready to ROC? Power Analyses for ROC Curves</em> (Behavior Research Methods 2025) &bull; 
+  <em>When Are Scientific Findings Deemed Practically or Theoretically Relevant?</em> (TQMP 2025).
+</div>
+```
+:::
+
+## Pillar III: Mind {#pillar-mind}
+
+::: {.research-pillar-box .box-mind}
+```{=html}
+<div class="d-flex align-items-center gap-3 mb-3">
+  <div class="pillar-icon-wrapper icon-mind m-0">
+    <i class="bi bi-lightbulb"></i>
+  </div>
+  <div>
+    <span class="badge-din mb-1">Pillar III &bull; Mind &amp; Illusory Truth</span>
+    <h3 class="m-0" style="color: #5e2781; font-family: 'Cinzel', serif; font-weight: 700;">Cognitive Biases &amp; The Illusory Truth Effect</h3>
+  </div>
+</div>
+```
+
+How do repetition, cognitive heuristics, and social feedback influence what people accept as true? Our research bridges basic cognitive mechanisms with legal and societal implications:
+
+* **The Illusory Truth Effect on Facts and Opinions:** Investigating why repeated exposure increases subjective truth ratings—not only for factual claims but also for socio-political opinions, judicial assertions, and forensic narratives.
+* **Autobiographical Belief vs. Recollection:** Disentangling autobiographical belief (the conviction that an event occurred) from episodic recollection (the subjective replay of perceptual memory details).
+* **Forensic Relevance of Psychological Science:** Evaluating how legal professionals, judges, and jurors understand and apply psychological evidence in the courtroom.
+* **Misinformation &amp; Fake News:** Conducting meta-analyses and policy research on how exposure to fake news generates false memories and distorted social beliefs.
+
+```{=html}
+<div class="alert alert-info mt-4 mb-0" style="font-size: 0.93rem;">
+  <strong>Representative Publications:</strong> 
+  <em>Limits of the Illusory Truth Effect for Social-Political Opinions</em> (Consciousness and Cognition 2026) &bull; 
+  <em>"That's Just Like, Your Opinion, Man": The Illusory Truth Effect on Opinions</em> (Psychological Research 2024) &bull; 
+  <em>Fake Memories: Meta-Analysis on Fake News</em> (Memory, Mind &amp; Media 2024) &bull; 
+  <em>Through the Lens of Legal Professionals</em> (IJEP 2025).
+</div>
+```
+:::
+
+::: {.callout-note}
+### Explore Our Reproducible R Tutorials
+Looking for open simulation code and psychometric walkthroughs? Explore our [R Analyses &amp; Tutorials](../posts/index.qmd) for full reproducible scripts and code!
+:::

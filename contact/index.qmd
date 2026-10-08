@@ -1,0 +1,74 @@
+---
+title: "Contact & Location"
+subtitle: "Connect with The Triad Lab at Erasmus University Rotterdam"
+page-layout: full
+toc: true
+---
+
+```{=html}
+<div class="section-header-triforce">
+  <div class="triforce-crest">
+    <svg class="triforce-svg" viewBox="0 0 100 86.6" width="38" height="33" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="tfGradContact" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#ffd700" />
+          <stop offset="50%" stop-color="#e5b93b" />
+          <stop offset="100%" stop-color="#c59b27" />
+        </linearGradient>
+      </defs>
+      <polygon points="50,0 25,43.3 75,43.3" fill="url(#tfGradContact)" stroke="#8b6c16" stroke-width="1.5" />
+      <polygon points="25,43.3 0,86.6 50,86.6" fill="url(#tfGradContact)" stroke="#8b6c16" stroke-width="1.5" />
+      <polygon points="75,43.3 50,86.6 100,86.6" fill="url(#tfGradContact)" stroke="#8b6c16" stroke-width="1.5" />
+    </svg>
+  </div>
+  <h2>Get in Touch</h2>
+  <p class="section-sub">We welcome scientific inquiries, research collaborations, media requests, and prospective student applications.</p>
+</div>
+```
+
+::: {.row .g-4 .justify-content-center .mb-5}
+::: {.col-lg-6}
+::: {.card .p-4 .h-100 style="border-radius: 14px; border: 1px solid rgba(197,155,39,0.35); box-shadow: 0 4px 20px rgba(0,0,0,0.04);"}
+<h4 style="font-family: 'Cinzel', serif; color: #145a46;"><i class="bi bi-geo-alt-fill text-danger"></i> Lab Location &amp; Affiliation</h4>
+<p style="font-size: 1rem; line-height: 1.75; color: #374151;">
+<strong>The Triad Lab</strong><br>
+Forensic &amp; Legal Psychology Section<br>
+Erasmus School of Social and Behavioural Sciences (ESSB)<br>
+<strong>Erasmus University Rotterdam</strong><br>
+Burgemeester Oudlaan 50, Mandeville Building<br>
+3062 PA Rotterdam, The Netherlands
+</p>
+
+<h5 style="font-family: 'Cinzel', serif; margin-top: 1.5rem; color: #8b6c16;"><i class="bi bi-envelope-fill text-warning"></i> Electronic Inquiries</h5>
+<p style="font-size: 0.96rem; line-height: 1.75;">
+<strong>Contact Email:</strong> <a href="mailto:paul.riesthuis@kuleuven.be" class="fw-bold" style="color: #145a46;">paul.riesthuis@kuleuven.be</a><br>
+<strong>Institutional Website:</strong> <a href="https://www.eur.nl/en/essb" target="_blank">Erasmus School of Social and Behavioural Sciences</a>
+</p>
+
+<h5 style="font-family: 'Cinzel', serif; margin-top: 1.5rem; color: #5e2781;"><i class="bi bi-globe"></i> Profiles &amp; Networks</h5>
+<div class="d-flex flex-wrap gap-2 mt-2">
+  <a href="https://scholar.google.be/citations?user=5gVs6QMAAAAJ" target="_blank" class="btn btn-sm btn-outline-dark"><i class="bi bi-mortarboard-fill"></i> Google Scholar</a>
+  <a href="https://github.com/PaulRiesthuis" target="_blank" class="btn btn-sm btn-outline-dark"><i class="bi bi-github"></i> GitHub</a>
+  <a href="https://www.researchgate.net/profile/Paul-Riesthuis-2" target="_blank" class="btn btn-sm btn-outline-dark"><i class="bi bi-journal-richtext"></i> ResearchGate</a>
+  <a href="https://www.linkedin.com/in/paul-riesthuis-631323224/" target="_blank" class="btn btn-sm btn-outline-dark"><i class="bi bi-linkedin"></i> LinkedIn</a>
+</div>
+:::
+:::
+
+::: {.col-lg-6}
+::: {.card .p-4 .h-100 style="border-radius: 14px; background: linear-gradient(135deg, #fcfaf6 0%, #f6efe3 100%); border: 1px solid rgba(197,155,39,0.35); box-shadow: 0 4px 20px rgba(0,0,0,0.04);"}
+<h4 style="font-family: 'Cinzel', serif; color: #8b6c16;"><i class="bi bi-chat-dots-fill"></i> Inquiries &amp; Prospective Collaborations</h4>
+<p style="font-size: 0.98rem; line-height: 1.75; color: #374151;">
+If you are interested in collaborating on memory research, statistical power simulations in R, or legal psychology projects, please feel free to reach out via email.
+</p>
+
+::: {.callout-note appearance="simple"}
+### Prospective Students &amp; Researchers
+When inquiring about thesis supervision or postdoctoral collaborations, please include:
+1. A brief summary of research interests and relevant experience (e.g. experimental psychology, criminology, R programming).
+2. Your academic CV.
+3. Any relevant writing or code samples / preprints.
+:::
+:::
+:::
+:::

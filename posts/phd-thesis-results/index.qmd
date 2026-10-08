@@ -1,0 +1,14 @@
+﻿---
+title: "PhD Dissertation Findings: Lying, Memory & SESOI"
+author: "Dr. Paul Riesthuis"
+date: "2023-05-19"
+description: "Interactive overview of PhD dissertation findings on lying and memory with re-analysis using the Smallest Effect Size of Interest."
+image: ../../Triad_MMM.jpg
+categories:
+  - "PhD Research"
+  - "SESOI"
+  - "Shiny App"
+toc: true
+---
+
+<iframe height="800" width="100%" frameborder="yes" src="https://paulriesthuis.shinyapps.io/Thesis_Shiny_App/"> </iframe>

@@ -1,0 +1,16 @@
+﻿---
+title: "Power Analysis for ROC Curve Analysis Shiny App"
+author: "Dr. Paul Riesthuis"
+date: "2025-03-19"
+description: "An interactive R Shiny application to facilitate power analyses for Receiver Operating Characteristic (ROC) curve experiments."
+image: featured.png
+categories:
+  - "ROC Analysis"
+  - "Shiny App"
+  - "Power Analysis"
+toc: true
+---
+
+You can also access the Shiny app [here](https://paulriesthuis.shinyapps.io/ROC_Power_Shiny/) or in [R](https://github.com/PaulRiesthuis/ROCpower) 
+
+<iframe height="800" width="100%" frameborder="yes" src="https://paulriesthuis.shinyapps.io/ROC_Power_Shiny/"> </iframe>
